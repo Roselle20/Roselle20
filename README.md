@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Rose</h2>
+<h2 align="center">Hi 👋! I am Rose🥀</h2>
 
 <p align="center">
   I am a 3rd Year BSIT Student 🎓<br>
