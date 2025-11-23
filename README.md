@@ -27,10 +27,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=psyche362&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roselle20&show_icons=true&theme=tokyonight" height="165" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=psyche362&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Roselle20&theme=tokyonight" height="165" />
 </div>
 
 ###
